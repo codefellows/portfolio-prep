@@ -12,9 +12,11 @@ A few punchy images will really help your page stand out, and make it your own. 
 
 1. A headshot of your lovely face, reduced to 100x100 pixels
    - Click [Here](./assets/100x100headshot.png) for my headshot
+   - Headshot cropped using [Canva](https://www.canva.com/)
 
 1. A banner of you looking happy, cropped to exactly 1400 × 422 pixels
    - Click [Here](./assets/1400×422banner.png) for my personalized banner
+   - Banner created using [Canva](https://www.canva.com/)
 
 1. A screenshot of the best-looking part of your favorite previous project, like your Code 201 final project
    - Click [Here](./assets/pythonFinalScreenshot.png) for a screenshot of my Python final project
