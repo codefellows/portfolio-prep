@@ -1,5 +1,4 @@
 # Tell me about yourself
-Visitors to your portfolio site want to learn about you, in memorable, bite-sized bits. Your page will have a space for you to fill in each of the following descriptions of yourself:
 
 1. A 2 or 3 word catchy title. Avoid cliches like “programming ninja” or “coding rockstar”.
     - The Insatiable Learner
