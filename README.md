@@ -11,16 +11,18 @@ Visitors to your portfolio site want to learn about you, in memorable, bite-size
 A few punchy images will really help your page stand out, and make it your own. Gather images for the following:
 
 1. A headshot of your lovely face, reduced to 100x100 pixels
-   - Click [Here](./assets/100x100headshot.png) for my headshot
-   - Headshot cropped using [Canva](https://www.canva.com/)
+   - Click [Here](./assets/myProfile.jpeg) for my headshot.
 
 1. A banner of you looking happy, cropped to exactly 1400 × 422 pixels
-   - Click [Here](./assets/1400×422banner.png) for my personalized banner
-   - Banner created using [Canva](https://www.canva.com/)
+   - Click [Here](./assets/banner.mp4) for my banner.
 
 1. A screenshot of the best-looking part of your favorite previous project, like your Code 201 final project
-   - Click [Here](./assets/pythonFinalScreenshot.png) for a screenshot of my Python final project
+   - Click [Here](./assets/) for a screenshot of my Python final project
 
 1. Two or three other nice-looking screenshots, of any other projects you have worked on. Salmon Cookies? Bus Mall?
-   - Click [Here](./assets/pythonMidTermScreenshot.png) for a screenshot of my Python midterm project
-   - Click [Here](./assets/301FinalScreenshot.png) for a screenshot of my 301 final project
+   - Click [Here](./assets/salmon-cookies) for a folder of screenshots from Salmon Cookies
+   - Click [Here](./assets/) for a folder of screenshots from Odd Duck
+
+
+## Resources
+- [Canva](https://www.canva.com/)
