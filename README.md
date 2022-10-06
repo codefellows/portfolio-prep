@@ -19,7 +19,7 @@ A few punchy images will really help your page stand out, and make it your own. 
 1. A screenshot of the best-looking part of your favorite previous project, like your Code 201 final project
    - Click [Here](./assets/201-final-project) for screenshots of my 201 final project
 
-1. Two or three other nice-looking screenshots, of any other projects you have worked on. Salmon Cookies? Bus Mall?
+1. Two or three other nice-looking screenshots, of any other projects you have worked on. 
    - Click [Here](./assets/salmon-cookies) for screenshots from Salmon Cookies
    - Click [Here](./assets/odd-duck) for screenshots from Odd Duck
 
