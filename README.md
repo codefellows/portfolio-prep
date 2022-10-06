@@ -14,7 +14,7 @@ A few punchy images will really help your page stand out, and make it your own. 
    - Click [Here](./assets/myProfile.jpeg) for my headshot.
 
 1. A banner:
-   - Click [Here](./assets/banner.mp4) for my banner.
+   - Click [Here](./assets/banner.png) for my banner.
 
 1. A screenshot of the best-looking part of your favorite previous project, like your Code 201 final project
    - Click [Here](./assets/201-final-project) for screenshots of my 201 final project
